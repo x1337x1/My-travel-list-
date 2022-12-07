@@ -1,0 +1,5 @@
+<div className="card--secondinfo">
+        <h1 className="card-title" >{props.item.title} </h1>
+        <h2> {props.item.startDate} </h2>
+        <p>  {props.item.description} </p>
+        </div>
